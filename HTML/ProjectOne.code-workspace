@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../Include"
+		},
+		{
+			"path": "../parts"
+		}
+	],
+	"settings": {}
+}
